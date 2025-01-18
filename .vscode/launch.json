@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Data_Type",
+      "request": "launch",
+      "mainClass": "Intro.Data_Type",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
