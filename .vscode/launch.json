@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Gui",
+      "request": "launch",
+      "mainClass": "D_GUI.Gui",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
       "name": "DataType",
       "request": "launch",
       "mainClass": "B_Expression.DataType",
