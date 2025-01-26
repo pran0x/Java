@@ -1,4 +1,4 @@
-package Intro; // package name or folder container
+package A_Intro; // package name or folder container
 
 import java.util.Scanner; // import Scanner class from java.util package;
 
