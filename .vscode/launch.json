@@ -8,6 +8,13 @@
       "type": "java",
       "name": "DataType",
       "request": "launch",
+      "mainClass": "B_Expression.DataType",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "DataType",
+      "request": "launch",
       "mainClass": "Expression.DataType",
       "projectName": "Java_6ed2515"
     },
