@@ -1,4 +1,4 @@
-package C_File_Linkes.G_Array;
+package G_Array;
 
 import java.util.Scanner;
 
