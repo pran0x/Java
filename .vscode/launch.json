@@ -6,6 +6,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exp",
+      "request": "launch",
+      "mainClass": "F_Expression.exp",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Two_D_Array",
+      "request": "launch",
+      "mainClass": "G_Array.Two_D_Array",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "C_File_Linkes.G_Array.Array",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "E_Loop.G_Array.Array",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "loops",
+      "request": "launch",
+      "mainClass": "E_Loop.loops",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "E_Loop.test",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass",
+      "request": "launch",
+      "mainClass": "N_Wrapper_Class.WrapperClass",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "abs",
+      "request": "launch",
+      "mainClass": "V_Abstract.abs",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Chicken",
+      "request": "launch",
+      "mainClass": "V_Abstract.Chicken",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Access_Modifier",
+      "request": "launch",
+      "mainClass": "T_Access_Modifier.Access_Modifier",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "program",
+      "request": "launch",
+      "mainClass": "C_File_Linkes.program",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "packege",
+      "request": "launch",
+      "mainClass": "S_Packege.packege",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "R_Inheritance.Inheritance",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "poly",
+      "request": "launch",
+      "mainClass": "P_Polymorphism.poly",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "O_Oops.Constructor",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Student_Details",
+      "request": "launch",
+      "mainClass": "O_Oops.Student_Details",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
+      "name": "Classes_Object",
+      "request": "launch",
+      "mainClass": "O_Oops.Classes_Object",
+      "projectName": "Java_6ed2515"
+    },
+    {
+      "type": "java",
       "name": "Gui",
       "request": "launch",
       "mainClass": "D_GUI.Gui",
